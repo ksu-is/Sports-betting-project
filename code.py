@@ -2,8 +2,8 @@ import random
 
 # Simulated sports events data
 sports_events = {
-    1: {"name": "Basketball - Team A vs. Team B", "odds": {"Team A": 1.5, "Team B": 2.0}},
-    2: {"name": "Soccer - Team X vs. Team Y", "odds": {"Team X": 1.8, "Team Y": 1.9}},
+    1: {"name": "Basketball - Team A vs. Team B", "odds": {"Team A": -1.5, "Team B": +2.0}},
+    2: {"name": "Football - Team X vs. Team Y", "odds": {"Team X": -3, "Team Y": +3}},
     # Add more simulated events here
 }
 
